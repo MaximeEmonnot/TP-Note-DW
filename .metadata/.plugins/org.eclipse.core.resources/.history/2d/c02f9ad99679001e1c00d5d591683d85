@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_gT9doHmMEe6jZ-pukEVapw" id="_gT4lIHmMEe6jZ-pukEVapw" label="ExtractAge" version="0.1" statusCode="" item="_gT9donmMEe6jZ-pukEVapw" displayName="ExtractAge">
+    <author href="../../talend.project#_zS978Hc0Ee6ZKIPv-45cyg"/>
+    <additionalProperties xmi:id="_gUUqAHmMEe6jZ-pukEVapw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_gUUqAXmMEe6jZ-pukEVapw" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_gUUqAnmMEe6jZ-pukEVapw" key="created_date" value="2023-11-02T15:31:26.623+0100"/>
+    <additionalProperties xmi:id="_gUUqA3mMEe6jZ-pukEVapw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_gUUqBHmMEe6jZ-pukEVapw" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_gUUqBXmMEe6jZ-pukEVapw" key="modified_date" value="2023-11-02T15:55:00.882+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_gT9doXmMEe6jZ-pukEVapw" path="DataExtraction"/>
+  <TalendProperties:ProcessItem xmi:id="_gT9donmMEe6jZ-pukEVapw" property="_gT9doHmMEe6jZ-pukEVapw" state="_gT9doXmMEe6jZ-pukEVapw">
+    <process href="ExtractAge_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
