@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_cvFsAHgIEe6y9PhHA6-DqA" id="_cu-XQHgIEe6y9PhHA6-DqA" label="ExtractTypeContact" version="0.1" statusCode="" item="_cvFsAngIEe6y9PhHA6-DqA" maxInformationLevel="ERROR" displayName="ExtractTypeContact">
+    <author href="../../talend.project#_zS978Hc0Ee6ZKIPv-45cyg"/>
+    <informations xmi:id="_W_I8QIu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8QYu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8Qou0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8Q4u0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved"/>
+    <informations xmi:id="_W_I8RIu0Ee6Bh6XVa08wdQ" level="ERROR" text="row1 cannot be resolved"/>
+    <informations xmi:id="_W_I8RYu0Ee6Bh6XVa08wdQ" level="ERROR" text="row1 cannot be resolved"/>
+    <informations xmi:id="_W_I8Rou0Ee6Bh6XVa08wdQ" level="ERROR" text="row1 cannot be resolved"/>
+    <informations xmi:id="_W_I8R4u0Ee6Bh6XVa08wdQ" level="ERROR" text="row1 cannot be resolved"/>
+    <informations xmi:id="_W_I8SIu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8SYu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8Sou0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8S4u0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8TIu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8TYu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8Tou0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8T4u0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8UIu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8UYu0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8Uou0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <informations xmi:id="_W_I8U4u0Ee6Bh6XVa08wdQ" level="ERROR" text="row2 cannot be resolved to a variable"/>
+    <additionalProperties xmi:id="_cvMZsHgIEe6y9PhHA6-DqA" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_cvNAwHgIEe6y9PhHA6-DqA" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_cvNAwXgIEe6y9PhHA6-DqA" key="created_date" value="2023-10-31T17:13:37.867+0100"/>
+    <additionalProperties xmi:id="_cvNAwngIEe6y9PhHA6-DqA" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_cvNAw3gIEe6y9PhHA6-DqA" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_cvNAxHgIEe6y9PhHA6-DqA" key="modified_date" value="2023-11-25T18:13:34.622+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_cvFsAXgIEe6y9PhHA6-DqA" path="DataExtraction" locked="true" lockDate="2023-11-25T18:01:41.112+0100">
+    <locker href="../../talend.project#_zS978Hc0Ee6ZKIPv-45cyg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_cvFsAngIEe6y9PhHA6-DqA" property="_cvFsAHgIEe6y9PhHA6-DqA" state="_cvFsAXgIEe6y9PhHA6-DqA">
+    <process href="ExtractTypeContact_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
